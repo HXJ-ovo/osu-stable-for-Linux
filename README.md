@@ -21,8 +21,8 @@
 
 ## 安装
 
-复制以下指令，粘贴到终端中(需要预先安装git)\
-`git clone https://gitee.com/matrix-feather/osu_script.git && cd osu_script && chmod +x ./Install.sh && ./Install.sh`
+复制以下指令，粘贴到终端中\
+`git clone https://github.com/HXJ-ovo/osu_stable_for_Linux.git && cd osu_stable_for_Linux && chmod +x ./Install.sh && ./Install.sh`
 
 ## 还没解决的问题
 - [ ] 或许可以试试用`Noto Sans CJK`来代替`WenQuanYi Micro Hei`
