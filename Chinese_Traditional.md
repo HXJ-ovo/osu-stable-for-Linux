@@ -7,7 +7,7 @@
 
 ## 注意
 
-**1. 安裝前你可能需要檢查當前顯卡是否開啟了32比特支持（sudo dpkg --add-architecture i386）<br><br>2. 在Deepin V20上您可能需要使用deepin-wine5運行osu！ stable以避免編輯器頂欄黑條問題<br><br>3. GDI+可能會因為網絡問題而安裝失敗**
+**1. 安裝前你可能需要檢查當前顯卡是否開啟了32比特支持（sudo dpkg --add-architecture i386）<br><br>2. 在Deepin V20上您可能需要使用deepin-wine5運行osu!stable以避免編輯器頂欄黑條問題<br><br>3. GDI+可能會因為網絡問題而安裝失敗**
 
 ## 依賴
 
