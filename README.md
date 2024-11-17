@@ -1,8 +1,8 @@
-# 适用于Linux的osu!stable
+# 适用于 Linux 的 osu!stable
 简体中文 [繁体中文](/Chinese_Traditional.md) [English](/English.md)
 
 ## 介绍
-使用一键脚本来用Wine来在Linux上游玩osu!stable
+使用一键脚本来用 Wine 来在 Linux 上游玩 osu!stable
 
 ## 注意
 **1. 安装前你可能需要检查当前显卡是否开启了32位支持（sudo dpkg --add-architecture i386）<br><br>2. 在Deepin V20上您可能需要使用deepin-wine5运行osu!stable以避免编辑器顶栏黑条问题<br><br>3. GDI+可能会因为网络问题而安装失败**
