@@ -19,6 +19,9 @@
 ## 安装
 
 将以下命令粘贴到终端中\
+`git clone https://gitee.com/Mei_Hao_Xuan/osu_stable_for_-linux.git && cd osu_stable_for_Linux && chmod +x ./Install.sh && ./Install.sh`
+
+如果此命令无法使用，请使用\
 `git clone https://github.com/HXJ-ovo/osu_stable_for_Linux.git && cd osu_stable_for_Linux && chmod +x ./Install.sh && ./Install.sh`
 
 ## 还没解决的问题
