@@ -1,9 +1,9 @@
-# 適用於Linux的osu!stable
+# 適用於 Linux 的 osu!stable
 [简体中文](/README.md) 繁体中文 [English](/English.md)
 
 ## 介紹
 
-使用一鍵腳本來用Wine來在Linux上遊玩osu!stable
+使用一鍵腳本來用 Wine 來在 Linux 上遊玩 osu!stable
 
 ## 注意
 
