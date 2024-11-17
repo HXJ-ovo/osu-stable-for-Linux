@@ -30,6 +30,6 @@
 
 ## 還沒解决的問題
 
-- [ ]或許可以試試用`Noto Sans CJK`來代替`WenQuanYi Micro Hei`
+- [ ] 或許可以試試用`Noto Sans CJK`來代替`WenQuanYi Micro Hei`
 
-- [ ]解决泰文不顯示，顯示為方框的問題（*需要幫助：找不到字體，網上查不到，用Tahoma也不顯示*）
+- [ ] 解决泰文不顯示，顯示為方框的問題（*需要幫助：找不到字體，網上查不到，用Tahoma也不顯示*）
